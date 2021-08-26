@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technologies used: ReactJS, Material UI, YouTube API.
+
+All the data is live fetched from YouTube API. Videos and
+channels can be searched through the search bar and video
+suggestions are displayed. Videos can be played on the
+application itself or on the official YouTube website.
 
 ## Available Scripts
 
